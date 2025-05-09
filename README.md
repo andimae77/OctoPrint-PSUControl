@@ -1,7 +1,5 @@
 # OctoPrint PSU Control - just for convenience
 
-https://github.com/oerkel47/OctoPrint-PSUControl/archive/refs/heads/devel.zip
-
 This OctoPrint plugin controls an ATX/AUX power supply to help reduce power consumption and noise when the printer is not in use.
 
 Power supply can be automatically switched on when user specified commands are sent to the printer and/or switched off when idle.
@@ -25,6 +23,9 @@ See the [Wiki](https://github.com/kantlivelong/OctoPrint-PSUControl/wiki/API)
 
 ## Support
 Help can be found at the [OctoPrint Community Forums](https://community.octoprint.org)
+
+## Download 
+https://github.com/oerkel47/OctoPrint-PSUControl/archive/refs/heads/devel.zip
 
 ## Feature Requests
 [![Feature Requests](https://feathub.com/kantlivelong/OctoPrint-PSUControl?format=svg)](https://feathub.com/kantlivelong/OctoPrint-PSUControl)
